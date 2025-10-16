@@ -14,3 +14,5 @@ EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
 
+#archivo actualizado para incluir en git
+
